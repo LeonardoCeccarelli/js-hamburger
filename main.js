@@ -1,4 +1,4 @@
-const iconOpenMenu = document.querySelector("div > a")
+const iconOpenMenu = document.querySelector(".header-right > a")
 const displayOnClick = document.querySelector(".hamburger-menu")
 
 iconOpenMenu.addEventListener("click", function () {
